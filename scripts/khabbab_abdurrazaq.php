@@ -1,16 +1,3 @@
 <?php 
-   
-   
-
-   $firstname = "Khabbab";
-   $lastname = "Abdurrazaq";
-   $id = "HNG-05015";
-   $language = "PHP";
-   $email = "swartjide@gmail.com";
-
-   
-
-   $introduction = "Hello World, this is " .$firstname. " " .$lastname. " with HNGi7 ID " .$id. " and email " .$email. " using " .$language. " for stage 2 task";
-   echo $introduction;
-   
+    echo "Hello World, this is Abdurrazaq Khabbab, with HNGi7 ID HNG-05015 using php for stage 2 task";
 ?>

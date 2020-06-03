@@ -1,6 +1,7 @@
-def sayHello(myName,myId,myLanguage, myEmail):
-    print("Hello World, this is {name} with HNGi7 ID {id} and email {email} using {language} for stage 2 task"
-    .format(name = myName, id = myId, language = myLanguage, email = myEmail))
-    return
+######## HNG STTAGE 2 TASK 
+name = "Tjahe Essomba Jules Renaud"
+id = "HNG-01452"
+language = "python"
+message = f"Hello World, this is {name} with HNGi7 ID {id} using {language} for stage 2 task"
 
-sayHello("Tjahe Essomba Jules Renaud","HNG-01452","python","julesrenaud10@gmail.com")
+print(message)
